@@ -1,8 +1,8 @@
-# TOEFL MASTER - TOEFL MASTER Online Test Platform
+# Exam Mastery - TOEFL MASTER Online Test Platform
 
 ## Project Description
 
-TOEFL MASTER is an online TOEFL MASTER test platform. The platform provides multiple mock tests to help users improve their listening, reading, writing, and speaking TOEFL MASTER exam performance. TOEFL MASTER can predict the user's overall TOEFL MASTER band score with a score calculator. It consists of an AI-based speaking assessment to help users improve Fluency & Coherence, Lexical Resources, Grammatical range and accuracy, and Pronunciation. It lets users post their scores on social media platforms like Facebook, Twitter, and Whatsapp. TOEFL MASTER have an interactive dashboard for registered users to help track their progress and view past test mock exams.
+Exam Mastery is an online TOEFL MASTER test platform. The platform provides multiple mock tests to help users improve their listening, reading, writing, and speaking TOEFL exam performance. Exam Mastery can predict the user's overall TOEFL  band score with a score calculator. It consists of an AI-based speaking assessment to help users improve Fluency & Coherence, Lexical Resources, Grammatical range and accuracy, and Pronunciation. It lets users post their scores on social media platforms like Facebook, Twitter, and Whatsapp. Exam Mastery have an interactive dashboard for registered users to help track their progress and view past test mock exams.
 
 ## User Requirements
 
@@ -14,7 +14,7 @@ TOEFL MASTER is an online TOEFL MASTER test platform. The platform provides mult
 #### Registered Users (Students)
 
 - Users can log in using their credentials to enter the platform
-- Users can take the TOEFL MASTER test
+- Users can take the TOEFL test
 - Registered users can view previous test histories
 - User can view the scores immediately after completing the test
 - Users have access to the dashboard to view their progress
